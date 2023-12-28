@@ -8,6 +8,11 @@
 </p>
 
 ## LES API :
+
+http://localhost:8000/api/login
+http://localhost:8000/api/register
+http://localhost:8000/api/logout
+
 ![image](https://github.com/acelest/acelest-check-pro-backend/assets/116364607/5e9fa2af-9b1c-458e-b673-468bc2c4245f)
 
 
